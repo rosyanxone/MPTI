@@ -26,7 +26,7 @@
         <div class="container">
             <a class="navbar-brand" href="http://gedungbaru-ftunmul.rf.gd">Lecture Building</a>
             <div class="d-flex search-bar">
-                <input class="form-control me-2" id="input" type="text" placeholder="Kode Ruangan" aria-label="Search">
+                <input class="form-control me-2" id="kode-ruang" type="text" placeholder="Kode Ruangan" aria-label="Search">
                 <button class="btn btn-outline-success" id="search-button" onclick="goToPage();" type="submit" style="color: white;">Search</button>
             </div>
         </div>
