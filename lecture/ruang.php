@@ -24,7 +24,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-dark" style="background-color: #0097A7;">
         <div class="container">
-            <a class="navbar-brand" href="http://gedungbaru-ftunmul.rf.gd">Lecture Building</a>
+            <a class="navbar-brand" href="http://gedungbaru-ftunmul.rf.gd">LECTURE BUILDING</a>
             <div class="d-flex search-bar">
                 <input class="form-control me-2" id="kode-ruang" type="text" placeholder="Kode Ruangan" aria-label="Search">
                 <button class="btn btn-outline-success" id="search-button" onclick="goToPage();" type="submit" style="color: white;">Search</button>
@@ -293,9 +293,13 @@
     <!-- Searching Script -->
     <script type="text/javascript">
         function goToPage() {
-            var kodeRuang = document.getElementById("input").value;
+            var kodeRuang = document.getElementById("kode-ruang").value;
             location.href = "#" + kodeRuang.toUpperCase();
         }
+        const input = document.getElementById("kode-ruang");
+        input.addEventListener("keydown", (e) => {
+            if (e.key.toLowerCase() === "enter") goToPage();
+        });
     </script>
 
     <!-- Box Date TIme -->
