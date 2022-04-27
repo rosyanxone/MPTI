@@ -1,0 +1,330 @@
+section {
+    height: auto;
+}
+
+footer {
+    padding: 15vmin;
+}
+
+footer p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer-logo img {
+    width: 100px;
+}
+
+.footer-logo li {
+    padding-left: 60px;
+    list-style-type: none;
+}
+
+
+/* Page 1 */
+
+.carousel-inner,
+.carousel-item {
+    border-radius: 15px;
+    transition: 0.5s;
+}
+
+.building {
+    background: #fff;
+    /* background: #0097A7; */
+}
+
+figure {
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+figure:hover+span {
+    bottom: -36px;
+    opacity: 1;
+    border-radius: 5px;
+}
+
+.card figure img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    border-radius: 5px;
+}
+
+.card figure:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    border-radius: 5px;
+}
+
+
+/* Page 2 */
+
+section.denah2d img {
+    width: 100%;
+    height: auto;
+    border: 3px solid black;
+}
+
+section.denah2d h4 {
+    padding-top: 10px;
+}
+
+section.denah2d figure {
+    width: 100%;
+    height: auto;
+    border: 3px solid black;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: white;
+    position: relative;
+}
+
+section.denah2d figure .row a {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-family: "Segoe UI", sans-serif;
+    border-radius: 6px;
+    transition: 0.5s;
+    transition-property: background, box-shadow;
+    background: #fff;
+    cursor: pointer;
+    border: 3px solid #0097A7;
+}
+
+
+/* Box Sizing */
+
+.ex-smoll {
+    width: 10%;
+}
+
+.mid-smoll {
+    width: 15%;
+}
+
+.smoll {
+    width: 20%;
+}
+
+.mid-medium {
+    width: 25%;
+}
+
+.medium {
+    width: 30%;
+}
+
+.mid-large {
+    width: 35%;
+}
+
+.large {
+    width: 40%;
+}
+
+.ex-large {
+    width: 50%;
+}
+
+
+/* End Box Sizing */
+
+section.denah2d figure .row>*:hover {
+    background: #0097A7;
+}
+
+
+/* li {
+    list-style-type: none;
+} */
+
+
+/* li::before {
+    content: "– ";
+    padding-right: 14px;
+} */
+
+
+/* Page 3 */
+
+.datetime {
+    height: auto;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    /* Datetime */
+    color: #10101E;
+    font-family: "Segoe UI", sans-serif;
+    padding: 15px 10px;
+    border: 3px solid #0097A7;
+    border-radius: 5px;
+    transition: 0.5s;
+    transition-property: background, box-shadow;
+    user-select: none;
+}
+
+.datetime:hover {
+    background: #0097A7;
+    box-shadow: 0 0 30px #0097A7;
+}
+
+.date {
+    font-size: 3vmin;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.time {
+    font-size: 4vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time span {
+    position: relative;
+    margin: 0 6px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+iframe {
+    height: 301px;
+    border-radius: 10px;
+}
+
+
+/* Desktop Version */
+
+@media (min-width: 992px) {
+    .building {
+        height: 350px;
+    }
+    .building2 {
+        margin-left: 90px;
+        margin-top: 120px;
+    }
+    section#gambar figure {
+        border: 5px solid black;
+    }
+    a.navbar-brand.index::before {
+        content: "GEDUNG BARU ";
+    }
+    a.navbar-brand.lab::before {
+        content: "Laboratory Building";
+    }
+}
+
+
+/* Tablet Version */
+
+@media (max-width: 820px) {
+    section.denah2d figure .row a {
+        font-size: 15px;
+        /* height: 120px; */
+    }
+    a.navbar-brand.lab::before {
+        content: "Laboratory Building";
+    }
+    /* Digital Clock */
+    .datetime {
+        width: 40%;
+    }
+    .date {
+        font-size: 3vmin;
+        font-weight: 600;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+    .time {
+        font-size: 7vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .time span {
+        letter-spacing: 0px;
+    }
+    /* End Digital Clock */
+}
+
+
+/* Mobile Version */
+
+@media (max-width: 540px) {
+    nav .container a,
+    nav .search-bar input,
+    nav .search-bar button {
+        font-size: 3vmin;
+    }
+    footer p {
+        font-size: 15px;
+    }
+    .footer-logo li {
+        padding-left: 2vmin;
+    }
+    .footer-logo img {
+        width: 10vmax;
+    }
+    /* Page 2 */
+    a.navbar-brand.lab::before {
+        content: "Lab. Building";
+    }
+    section.denah2d figure {
+        height: auto;
+        padding: 8px 15px;
+    }
+    section.denah2d figure .row a {
+        font-size: 8px;
+        height: 60px;
+    }
+    section.denah2d figure div.row {
+        padding: 0 !important;
+    }
+    section.denah2d figure div.pt-5 {
+        padding-top: 30px !important;
+    }
+    /* Page 3 */
+    /* section.ruang table {
+        font-size: 8px;
+    } */
+    /* Digital Clock */
+    .datetime {
+        width: 50%;
+    }
+    .date {
+        font-size: 3vmin;
+        font-weight: 600;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+    .time {
+        font-size: 7vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .time span {
+        letter-spacing: 0px;
+    }
+    /* End Digital Clock */
+}
