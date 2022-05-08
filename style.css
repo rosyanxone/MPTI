@@ -273,6 +273,10 @@ iframe {
 /* Mobile Version */
 
 @media (max-width: 540px) {
+    nav .search-bar.lec input,
+    nav .search-bar.lec button {
+        font-size: 2.5vmin;
+    }
     nav .container a,
     nav .search-bar input,
     nav .search-bar button {
