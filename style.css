@@ -89,6 +89,10 @@ section.denah2d figure {
     position: relative;
 }
 
+/* section.denah2d figure {
+    text-align: center;
+} */
+
 section.denah2d figure .row a {
     position: relative;
     display: flex;
@@ -142,7 +146,6 @@ section.denah2d figure .row a {
 .ex-large {
     width: 50%;
 }
-
 
 /* End Box Sizing */
 
@@ -210,7 +213,7 @@ section.denah2d figure .row>*:hover {
 }
 
 iframe {
-    height: 301px;
+    height: 318px;
     border-radius: 10px;
 }
 
