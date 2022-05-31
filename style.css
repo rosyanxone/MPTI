@@ -105,6 +105,10 @@ section.denah2d figure .row a {
 
 /* Box Sizing */
 
+.exex-smoll {
+    width: 5%;
+}
+
 .ex-smoll {
     width: 10%;
 }
