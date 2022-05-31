@@ -71,13 +71,18 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
-                        <h4>Info:</h4>
+                    <div class="col informasi-lantai pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
                         <ul>
-                            <li> Kursi 50</li>
-                            <li> Meja 50</li>
+                            <li> Kursi Staff</li>
+                            <li> 78 Kursi Kuliah</li>
+                            <li> Meja Kerja Single</li>
+                            <li> White Board</li>
+                            <li> Tempat Sampah Kecil</li>
+                            <li> Papan Nama Ruangan</li>
+                            <li> Screen Projector</li>
                         </ul>
-                        <h4>Desc:</h4>
+                        <h4>Deskripsi:</h4>
                         <p>
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla distinctio neque consequuntur enim atque, voluptatibus suscipit commodi alias eos asperiores.
                         </p>
@@ -360,10 +365,6 @@
                             <li> Kursi 50</li>
                             <li> Meja 50</li>
                         </ul>
-                        <h4>Desc:</h4>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla distinctio neque consequuntur enim atque, voluptatibus suscipit commodi alias eos asperiores.
-                        </p>
                     </div>
                 </div>
                 <div class="row">
