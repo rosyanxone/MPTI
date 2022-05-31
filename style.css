@@ -143,24 +143,16 @@ section.denah2d figure .row>*:hover {
     background: #0097A7;
 }
 
-
-section.denah2d img {
-    width: 100%;
-    height: auto;
-    border: 3px solid black;
-}
-
 /* section.denah2d h4 {
     text-align:left;
     float:left;
 } */
 
-.informasi-lantai ul {
-    /* text-align:left;
-    float:left; */
+/* .informasi-lantai ul {
     display: flex;
     align-items: flex-start;
-}
+    font-size: 3vmin;
+} */
 
 .informasi-lantai ul li {
     padding-right: 30px;
@@ -232,6 +224,10 @@ iframe {
     }
     section#gambar figure {
         border: 5px solid black;
+    }
+    .informasi-lantai ul {
+        display: flex;
+        align-items: flex-start;
     }
     a.navbar-brand.index::before {
         content: "GEDUNG BARU ";
