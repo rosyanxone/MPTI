@@ -5,7 +5,7 @@
     if($conn->connect_error){
         die("Connection failed: " . $conn->connect_error);
     }
-
+    
     include_once 'ruang.php';
     $sql;
     $result = $conn->query($sql);

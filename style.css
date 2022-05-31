@@ -69,16 +69,6 @@ figure:hover+span {
 
 /* Page 2 */
 
-section.denah2d img {
-    width: 100%;
-    height: auto;
-    border: 3px solid black;
-}
-
-section.denah2d h4 {
-    padding-top: 10px;
-}
-
 section.denah2d figure {
     width: 100%;
     height: auto;
@@ -154,15 +144,27 @@ section.denah2d figure .row>*:hover {
 }
 
 
-/* li {
-    list-style-type: none;
+section.denah2d img {
+    width: 100%;
+    height: auto;
+    border: 3px solid black;
+}
+
+/* section.denah2d h4 {
+    text-align:left;
+    float:left;
 } */
 
+.informasi-lantai ul {
+    /* text-align:left;
+    float:left; */
+    display: flex;
+    align-items: flex-start;
+}
 
-/* li::before {
-    content: "– ";
-    padding-right: 14px;
-} */
+.informasi-lantai ul li {
+    padding-right: 30px;
+}
 
 
 /* Page 3 */
