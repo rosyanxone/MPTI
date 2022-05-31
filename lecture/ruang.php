@@ -63,7 +63,7 @@
                         
                         <!-- style="margin:0px; padding:0px; overflow: hidden;" -->
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c302.png" frameborder="0" width="100%"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c302.jpg" frameborder="0" width="100%"></iframe>
                         </div>
 
                     </div>
@@ -77,7 +77,7 @@
                         </ul>
                         <h4>Desc:</h4>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia veniam id officiis voluptatem. Veritatis beatae ut explicabo, ullam eius voluptatem aliquid aliquam perspiciatis ea expedita iure. Quas officiis quam voluptatum eum fuga dolorum quo, adipisci ea a pariatur, quod aliquam, nulla sit animi impedit eligendi facere similique doloribus excepturi voluptas?
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla distinctio neque consequuntur enim atque, voluptatibus suscipit commodi alias eos asperiores.
                         </p>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                         <h3>C303</h3>
                         
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c303.png" frameborder="0" width="100%"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c303.jpg" frameborder="0" width="100%"></iframe>
                         </div>
 
                     </div>
@@ -137,7 +137,7 @@
                         <h3>C304</h3>
                         
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c304.png" frameborder="0" width="100%"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c304.jpg" frameborder="0" width="100%"></iframe>
                         </div>
 
                     </div>
@@ -172,7 +172,7 @@
                         <h3>C306</h3>
                         
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c306.png" frameborder="0" width="100%"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c306.jpg" frameborder="0" width="100%"></iframe>
                         </div>
 
                     </div>
@@ -207,7 +207,7 @@
                         <h3>C307</h3>
                         
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c307.png" frameborder="0" width="100%"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c307.jpg" frameborder="0" width="100%"></iframe>
                         </div>
 
                     </div>
@@ -241,7 +241,7 @@
                     <div class="col">
                         <h3>C308</h3>
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c308.png" frameborder="0" width="100%" style="@media (min-width: 992px) {padding-left: 200px;}"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c308.jpg" frameborder="0" width="100%" style="@media (min-width: 992px) {padding-left: 200px;}"></iframe>
                         </div>
                     </div>
                 </div>
