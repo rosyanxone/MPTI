@@ -58,7 +58,7 @@
         <div id="lantai3" class="container pt-4">
             <h1>Lantai 3</h1>
             <!-- C302 -->
-            <div id="C302">
+            <div id="c302">
                 <div class="row">
                     <div class='col'>
                         <h3>C302</h3>
@@ -71,7 +71,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col informasi-lantai pt-4">
+                    <div class="col informasi-fasilitas pt-4">
                         <h4>Fasilitas Ruangan:</h4>
                         <ul>
                             <li> Kursi Staff</li>
@@ -83,9 +83,7 @@
                             <li> Screen Projector</li>
                         </ul>
                         <h4>Deskripsi:</h4>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla distinctio neque consequuntur enim atque, voluptatibus suscipit commodi alias eos asperiores.
-                        </p>
+                        <p>Marupakan ruangan perkuliahan yang dilengkapi oleh proyektor dan layar proyektor sebagai fasilitas persentasi.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -103,7 +101,7 @@
                 </div>
             </div>
             <!-- C303 -->
-            <div id="C303">
+            <div id="c303">
                 <div class="row">
                     <div class='col'>
                         <h3>C303</h3>
@@ -115,12 +113,20 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
-                        <h4>Info:</h4>
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
                         <ul>
-                            <li> Kursi 50</li>
-                            <li> Meja 50</li>
+                            <li> Kursi Staff</li>
+                            <li> 40 Kursi Serbaguna</li>
+                            <li> 40 Meja Siswa</li>
+                            <li> Meja Kerja Single</li>
+                            <li> White Board</li>
+                            <li> Tempat Sampah Kecil</li>
+                            <li> Papan Nama Ruangan</li>
+                            <li> Screen Projector</li>
                         </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>Marupakan ruangan perkuliahan yang dilengkapi oleh proyektor dan layar proyektor sebagai fasilitas persentasi.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -138,7 +144,7 @@
                 </div>
             </div>
             <!-- C304 -->
-            <div id="C304">
+            <div id="c304">
                 <div class="row">
                     <div class='col'>
                         <h3>C304</h3>
@@ -150,12 +156,20 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
-                        <h4>Info:</h4>
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
                         <ul>
-                            <li> Kursi 50</li>
-                            <li> Meja 50</li>
+                            <li> Kursi Staff</li>
+                            <li> 40 Kursi Serbaguna</li>
+                            <li> 40 Meja Siswa</li>
+                            <li> Meja Kerja Single</li>
+                            <li> White Board</li>
+                            <li> Tempat Sampah Kecil</li>
+                            <li> Papan Nama Ruangan</li>
+                            <li> Screen Projector</li>
                         </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>Marupakan ruangan perkuliahan yang dilengkapi oleh proyektor dan layar proyektor sebagai fasilitas persentasi.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -173,7 +187,7 @@
                 </div>
             </div>
             <!-- C306 -->
-            <div id="C306">
+            <div id="c306">
                 <div class="row">
                     <div class='col'>
                         <h3>C306</h3>
@@ -185,12 +199,19 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
-                        <h4>Info:</h4>
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
                         <ul>
-                            <li> Kursi 50</li>
-                            <li> Meja 50</li>
+                            <li> Kursi Staff</li>
+                            <li> 113 Kursi Kuliah</li>
+                            <li> Meja Kerja Single</li>
+                            <li> White Board</li>
+                            <li> Tempat Sampah Kecil</li>
+                            <li> Papan Nama Ruangan</li>
+                            <li> Screen Projector</li>
                         </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>Marupakan ruangan perkuliahan yang dilengkapi oleh proyektor dan layar proyektor sebagai fasilitas persentasi.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -208,7 +229,7 @@
                 </div>
             </div>
             <!-- C307 -->
-            <div id="C307">
+            <div id="c307">
                 <div class="row">
                     <div class='col'>
                         <h3>C307</h3>
@@ -220,12 +241,19 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
-                        <h4>Info:</h4>
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
                         <ul>
-                            <li> Kursi 50</li>
-                            <li> Meja 50</li>
+                            <li> Kursi Staff</li>
+                            <li> 78 Kursi Kuliah</li>
+                            <li> Meja Kerja Single</li>
+                            <li> White Board</li>
+                            <li> Tempat Sampah Kecil</li>
+                            <li> Papan Nama Ruangan</li>
+                            <li> Screen Projector</li>
                         </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>Marupakan ruangan perkuliahan yang dilengkapi oleh proyektor dan layar proyektor sebagai fasilitas persentasi.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -243,7 +271,7 @@
                 </div>
             </div>
             <!-- C308 -->
-            <div id="C308">
+            <div id="c308">
                 <div class="row">
                     <div class="col">
                         <h3>C308</h3>
@@ -253,12 +281,18 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
-                        <h4>Info:</h4>
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
                         <ul>
-                            <li> Kursi 50</li>
-                            <li> Meja 50</li>
+                            <li> Kursi Staff</li>
+                            <li> 78 Kursi Kuliah</li>
+                            <li> Meja Kerja Single</li>
+                            <li> Tempat Sampah Kecil</li>
+                            <li> Papan Nama Ruangan</li>
+                            <li> Screen Projector</li>
                         </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>Marupakan ruangan perkuliahan yang dilengkapi oleh proyektor dan layar proyektor sebagai fasilitas persentasi.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -276,22 +310,25 @@
                 </div>
             </div>
             <!-- C309 -->
-            <div id="C309">
+            <div id="storage">
                 <div class="row">
                     <div class="col">
-                        <h3>C309 - Storage</h3>
+                        <h3>Storage</h3>
                         <div class="360deg-img">
                             <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/storage-c309.jpg" frameborder="0" width="100%" style="@media (min-width: 992px) {padding-left: 200px;}"></iframe>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
-                        <h4>Info:</h4>
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
                         <ul>
-                            <li> Kursi 50</li>
-                            <li> Meja 50</li>
+                            <li> Rak Penyimpanan Besi</li>
+                            <li> Tempat Sampah Kecil</li>
+                            <li> Papan Nama Ruangan</li>
                         </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>Merupakan ruangan penyimpanan barang.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -309,22 +346,25 @@
                 </div>
             </div>
             <!-- C310 -->
-            <div id="C310">
+            <div id="pantry-lt3">
                 <div class="row">
                     <div class="col">
-                        <h3>C310 - Pantry</h3>
+                        <h3>Pantry</h3>
                         <div class="360deg-img">
                             <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/pantry-c310.jpg" frameborder="0" width="100%" style="@media (min-width: 992px) {padding-left: 200px;}"></iframe>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
-                        <h4>Info:</h4>
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
                         <ul>
-                            <li> Kursi 50</li>
-                            <li> Meja 50</li>
+                            <li> Dry Pantry/Kabinet Atar</li>
+                            <li> Tempat Sampah Kecil</li>
+                            <li> Papan Nama Ruangan</li>
                         </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>Merupakan ruangan dapur yang digunakan oleh petugas.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -346,7 +386,7 @@
         <div id="lantai4" class="container pt-4">
             <h1>Lantai 4</h1>
             <!-- C402 -->
-            <div id="C402">
+            <div id="c402">
                 <div class="row">
                     <div class='col'>
                         <h3>C402</h3>
@@ -382,10 +422,10 @@
                 </div>
             </div>
             <!-- C403 -->
-            <div id="C403">
+            <div id="c403">
                 <div class="row">
                     <div class='col'>
-                        <h3>C403 - Ruang Kelas</h3>
+                        <h3>C403</h3>
                         
                         <div class="360deg-img">
                             <iframe src="../content/Gambar Ruangan/Lantai 4 Gedung Kuliah/ruang-c403.jpg" frameborder="0" width="100%"></iframe>
@@ -417,7 +457,7 @@
                 </div>
             </div>
             <!-- C404 -->
-            <div id="C404">
+            <div id="c404">
                 <div class="row">
                     <div class='col'>
                         <h3>C404</h3>
@@ -452,7 +492,7 @@
                 </div>
             </div>
             <!-- C406 -->
-            <div id="C406">
+            <div id="c406">
                 <div class="row">
                     <div class='col'>
                         <h3>C406</h3>
@@ -487,7 +527,7 @@
                 </div>
             </div>
             <!-- C407 -->
-            <div id="C407">
+            <div id="c407">
                 <div class="row">
                     <div class='col'>
                         <h3>C407</h3>
@@ -522,7 +562,7 @@
                 </div>
             </div>
             <!-- C408 -->
-            <div id="C408">
+            <div id="c408">
                 <div class="row">
                     <div class="col">
                         <h3>C408</h3>
@@ -555,10 +595,10 @@
                 </div>
             </div>
             <!-- C409 -->
-            <div id="C409">
+            <div id="storage">
                 <div class="row">
                     <div class="col">
-                        <h3>C409 - Storage</h3>
+                        <h3>Storage</h3>
                         <div class="360deg-img">
                             <iframe src="../content/Gambar Ruangan/Lantai 4 Gedung Kuliah/storage-c409.jpg" frameborder="0" width="100%" style="@media (min-width: 992px) {padding-left: 200px;}"></iframe>
                         </div>
@@ -588,10 +628,10 @@
                 </div>
             </div>
             <!-- C410 -->
-            <div id="C410">
+            <div id="pantry">
                 <div class="row">
                     <div class="col">
-                        <h3>C410 - Pantry</h3>
+                        <h3>Pantry</h3>
                         <div class="360deg-img">
                             <iframe src="../content/Gambar Ruangan/Lantai 4 Gedung Kuliah/pantry-c410.jpg" frameborder="0" width="100%" style="@media (min-width: 992px) {padding-left: 200px;}"></iframe>
                         </div>
@@ -684,7 +724,7 @@
     <script type="text/javascript">
         function goToPage() {
             var kodeRuang = document.getElementById("kode-ruang").value;
-            location.href = "#" + kodeRuang.toUpperCase();
+            location.href = "#" + kodeRuang.toLowerCase();
         }
         const input = document.getElementById("kode-ruang");
         input.addEventListener("keydown", (e) => {
