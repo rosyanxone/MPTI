@@ -54,6 +54,270 @@
 
     <!-- 360deg Ruang -->
     <section class="ruang">
+        <!-- LANTAI SATU -->
+        <div id="lantai1" class="container pt-4">
+            <h1>Lantai 1</h1>
+            <!-- Office -->
+            <div id="office-lt1">
+                <div class="row">
+                    <div class='col'>
+                        <h3>Office</h3>
+                        <div class="360deg-img">
+                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/C106.jpg" frameborder="0" width="100%"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
+                        <ul>
+                            <li> Untitled</li>
+                        </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>-</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col pb-5">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table table-striped table-hover">
+                                    <?php
+                                    ?>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Musholla -->
+            <div id="musholla-lt1">
+                <div class="row">
+                    <div class='col'>
+                        <h3>Musholla</h3>
+                        <div class="360deg-img">
+                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/Musholla.jpg" frameborder="0" width="100%"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
+                        <ul>
+                            <li> Untitled</li>
+                        </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>-</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col pb-5">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table table-striped table-hover">
+                                    <?php
+                                    ?>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Administrasi -->
+            <div id="administrasi-lt1">
+                <div class="row">
+                    <div class='col'>
+                        <h3>Administrasi</h3>
+                        <div class="360deg-img">
+                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/AkademikKemahasiswaan.jpg" frameborder="0" width="100%"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
+                        <ul>
+                            <li> Untitled</li>
+                        </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>-</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col pb-5">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table table-striped table-hover">
+                                    <?php
+                                    ?>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Lobby -->
+            <div id="lobby-lt1">
+                <div class="row">
+                    <div class='col'>
+                        <h3>Lobby</h3>
+                        <div class="360deg-img">
+                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/lobby.jpg" frameborder="0" width="100%"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
+                        <ul>
+                            <li> Untitled</li>
+                        </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>-</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col pb-5">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table table-striped table-hover">
+                                    <?php
+                                    ?>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Pantry -->
+            <div id="pantry-lt1">
+                <div class="row">
+                    <div class="col">
+                        <h3>Pantry</h3>
+                        <div class="360deg-img">
+                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/pantry.jpg" frameborder="0" width="100%" style="@media (min-width: 992px) {padding-left: 200px;}"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
+                        <ul>
+                            <li> Untitled</li>
+                        </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>-</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col pb-5">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table table-striped table-hover">
+                                    <?php
+                                    ?>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- LANTAI DUA -->
+        <div id="lantai2" class="container pt-4">
+            <h1>Lantai 2</h1>
+            <!-- Studio Room -->
+            <div id="studio-room-lt2">
+                <div class="row">
+                    <div class='col'>
+                        <h3>Studio Room</h3>
+                        <div class="360deg-img">
+                            <iframe src="../content/Gambar Ruangan/Lantai 2  Gedung Kuliah/studio-room.jpg" frameborder="0" width="100%"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
+                        <ul>
+                            <li> Untitled</li>
+                        </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>-</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col pb-5">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table table-striped table-hover">
+                                    <?php
+                                    ?>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Storage -->
+            <div id="storage-lt2">
+                <div class="row">
+                    <div class='col'>
+                        <h3>Storage</h3>
+                        <div class="360deg-img">
+                            <iframe src="../content/Gambar Ruangan/Lantai 2  Gedung Kuliah/storage.jpg" frameborder="0" width="100%"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
+                        <ul>
+                            <li> Untitled</li>
+                        </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>-</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col pb-5">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table table-striped table-hover">
+                                    <?php
+                                    ?>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Toilet -->
+            <div id="toilet-lt2">
+                <div class="row">
+                    <div class='col'>
+                        <h3>Toilet</h3>
+                        <div class="360deg-img">
+                            <iframe src="../content/Gambar Ruangan/Lantai 2  Gedung Kuliah/toilet.jpg" frameborder="0" width="100%"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col informasi-fasilitas pt-4">
+                        <h4>Fasilitas Ruangan:</h4>
+                        <ul>
+                            <li> Untitled</li>
+                        </ul>
+                        <h4>Deskripsi:</h4>
+                        <p>-</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col pb-5">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table table-striped table-hover">
+                                    <?php
+                                    ?>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- LANTAI TIGA -->
         <div id="lantai3" class="container pt-4">
             <h1>Lantai 3</h1>
@@ -62,8 +326,6 @@
                 <div class="row">
                     <div class='col'>
                         <h3>C302</h3>
-                        
-                        <!-- style="margin:0px; padding:0px; overflow: hidden;" -->
                         <div class="360deg-img">
                             <iframe src="../content/Gambar Ruangan/Lantai 3 Gedung Kuliah/ruang-c302.jpg" frameborder="0" width="100%"></iframe>
                         </div>
@@ -390,8 +652,6 @@
                 <div class="row">
                     <div class='col'>
                         <h3>C402</h3>
-                        
-                        <!-- style="margin:0px; padding:0px; overflow: hidden;" -->
                         <div class="360deg-img">
                             <iframe src="../content/Gambar Ruangan/Lantai 4 Gedung Kuliah/ruang-c402.jpg" frameborder="0" width="100%"></iframe>
                         </div>
