@@ -230,7 +230,7 @@ iframe {
         content: "GEDUNG BARU ";
     }
     a.navbar-brand.lab::before {
-        content: "Laboratory Building";
+        content: "LABORATORY BUILDING";
     }
 }
 
