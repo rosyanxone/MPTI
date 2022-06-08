@@ -63,7 +63,7 @@
                     <div class='col'>
                         <h3>Library</h3>
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/C106.jpg" frameborder="0" width="100%"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 1 Lab/library.jpg" frameborder="0" width="100%"></iframe>
                         </div>
                     </div>
                 </div>
@@ -89,13 +89,13 @@
                     </div>
                 </div>
             </div>
-            <!-- Meeting Room -->
+            <!-- Pantry -->
             <div id="meet-room-lt1">
                 <div class="row">
                     <div class='col'>
-                        <h3>Meeting Room</h3>
+                        <h3>Pantry</h3>
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/Musholla.jpg" frameborder="0" width="100%"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 1 Lab/pantry.jpg" frameborder="0" width="100%"></iframe>
                         </div>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                     <div class='col'>
                         <h3>Toilet</h3>
                         <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/AkademikKemahasiswaan.jpg" frameborder="0" width="100%"></iframe>
+                            <iframe src="../content/Gambar Ruangan/Lantai 1 Lab/toilet.jpg" frameborder="0" width="100%"></iframe>
                         </div>
                     </div>
                 </div>
@@ -153,71 +153,6 @@
                     </div>
                 </div>
             </div>
-            <!-- Lobby -->
-            <div id="lobby-lt1">
-                <div class="row">
-                    <div class='col'>
-                        <h3>Lobby</h3>
-                        <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/lobby.jpg" frameborder="0" width="100%"></iframe>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col informasi-fasilitas pt-4">
-                        <h4>Fasilitas Ruangan:</h4>
-                        <ul>
-                            <li> Untitled</li>
-                        </ul>
-                        <h4>Deskripsi:</h4>
-                        <p>-</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col pb-5">
-                        <div class="table-responsive text-nowrap">
-                            <table class="table table-striped table-hover">
-                                    <?php
-                                    ?>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Satff & Lecture Room -->
-            <div id="staff-lec-lt1">
-                <div class="row">
-                    <div class="col">
-                        <h3>Pantry</h3>
-                        <div class="360deg-img">
-                            <iframe src="../content/Gambar Ruangan/Lantai 1 Gedung Kuliah/pantry.jpg" frameborder="0" width="100%" style="@media (min-width: 992px) {padding-left: 200px;}"></iframe>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col informasi-fasilitas pt-4">
-                        <h4>Fasilitas Ruangan:</h4>
-                        <ul>
-                            <li> Untitled</li>
-                        </ul>
-                        <h4>Deskripsi:</h4>
-                        <p>-</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col pb-5">
-                        <div class="table-responsive text-nowrap">
-                            <table class="table table-striped table-hover">
-                                    <?php
-                                    ?>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Storage -->
         </div>
     </section>
 
