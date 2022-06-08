@@ -157,7 +157,12 @@ section.denah2d figure .row>*:hover {
     padding-right: 30px;
 }
 
-/* End Page 4 */
+/* .informasi-fasilitas ul{
+    display: flex;
+    flex-direction: row;
+} */
+
+/* End Page 2 */
 
 .datetime {
     height: auto;
@@ -222,8 +227,10 @@ iframe {
     section#gambar figure {
         border: 5px solid black;
     }
+    /* Cobain di mobile */
     .informasi-fasilitas ul {
         display: flex;
+        flex-wrap: wrap;
         align-items: flex-start;
     }
     a.navbar-brand.index::before {
